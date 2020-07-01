@@ -1,10 +1,10 @@
 @echo off
-echo å¼€å§‹æ›´æ–°åšå®¢ã€‚ã€‚ã€‚è¯·ç¨åŽ
+echo ¿ªÊ¼¸üÐÂ²©¿Í¡£¡£¡£ÇëÉÔºó
 
 git add .
 git commit -m "data"
 git push origin master
 
 
-echo åšå®¢æ›´æ–°å®Œæˆ
+echo ²©¿Í¸üÐÂÍê³É
 echo. & pause
